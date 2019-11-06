@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gjithin/TestPipeline/_apis/build/status/jithing30.pipelines-java?branchName=master)](https://dev.azure.com/gjithin/TestPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
